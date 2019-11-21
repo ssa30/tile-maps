@@ -66,10 +66,12 @@ Instructions:
       the completedQuiz folder). 
       ** You would be wise to check that your changes have been pushed 
       successfully to the remote repository by visiting it in a web browser. 
-      If any other files have been added, edited or deleted other than student 
-      screenshots, as a result of your committing to the repository, you will 
+      If any other files have been added, edited or deleted (other than the 
+      screenshot) as a result of your committing to the repository, you will 
       have been deemed NOT to have completed the git operations successfully, 
       unless you can correct them and return them to the appropriate state. 
+      ** Contact Anna Jordanous 
+      a.k.jordanous@kent.ac.uk ASAP if you are having problems.
       ** Remember that all changes to the repository are logged with the 
       username of the person who has made that change.
 
