@@ -14,8 +14,8 @@ the changes made using Git (by adding a new file to the Git repository).
 
 You MUST complete both parts to pass the assessment.
 
-The deadline for this coursework is Friday 4th December 2020, 23:55. Any edits made to the 
-assignment repository after this deadline will not be graded for the coursework.
+The deadline for this coursework is Friday 11th December 2020, 23:55. Any edits made 
+to the assignment repository after this deadline will not be graded for the coursework.
 
 Instructions (also available in the PDF document):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
