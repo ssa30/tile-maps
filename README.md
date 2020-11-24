@@ -19,7 +19,6 @@ assignment repository after this deadline will not be graded for the coursework.
 
 Instructions (also available in the PDF document):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 	*	Using your preferred Git GUI/Command Line Interface, clone THIS Git repository to 
         your local computer.
 		** Consult the Git lecture/class if you need help doing this.
